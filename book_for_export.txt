@@ -1,0 +1,294 @@
+To Kill a Mockingbird,Harper Lee,1960,Fiction,4.3
+1984,George Orwell,1949,Fiction,4.2
+Pride and Prejudice,Jane Austen,1813,Classic,4.3
+The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,3.9
+Moby Dick,Herman Melville,1851,Classic,3.5
+War and Peace,Leo Tolstoy,1869,Classic,4.2
+The Catcher in the Rye,J.D. Salinger,1951,Fiction,3.8
+The Hobbit,J.R.R. Tolkien,1937,Fantasy/Sci-Fi,4.3
+Fahrenheit 451,Ray Bradbury,1953,Fantasy/Sci-Fi,4.0
+Brave New World,Aldous Huxley,1932,Fantasy/Sci-Fi,4.0
+Crime and Punishment,Fyodor Dostoevsky,1866,Classic,4.3
+The Odyssey,Homer,-800,Classic,3.8
+Jane Eyre,Charlotte Brontë,1847,Classic,4.2
+Wuthering Heights,Emily Brontë,1847,Classic,3.9
+The Divine Comedy,Dante Alighieri,1320,Poetry/Drama,4.0
+Don Quixote,Miguel de Cervantes,1605,Classic,3.9
+The Brothers Karamazov,Fyodor Dostoevsky,1880,Classic,4.4
+Anna Karenina,Leo Tolstoy,1877,Classic,4.3
+The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy/Sci-Fi,4.5
+The Alchemist,Paulo Coelho,1988,Fiction,3.9
+The Little Prince,Antoine de Saint-Exupéry,1943,Fiction,4.3
+One Hundred Years of Solitude,Gabriel García Márquez,1967,Fiction,4.1
+The Picture of Dorian Gray,Oscar Wilde,1890,Classic,4.1
+Frankenstein,Mary Shelley,1818,Classic,3.8
+Dracula,Bram Stoker,1897,Horror,4.0
+The Count of Monte Cristo,Alexandre Dumas,1844,Classic,4.3
+Great Expectations,Charles Dickens,1861,Classic,3.8
+Alice's Adventures in Wonderland,Lewis Carroll,1865,Fiction,4.0
+The Adventures of Huckleberry Finn,Mark Twain,1884,Classic,3.9
+Les Misérables,Victor Hugo,1862,Classic,4.2
+Ulysses,James Joyce,1922,Fiction,3.7
+Madame Bovary,Gustave Flaubert,1856,Classic,3.8
+The Iliad,Homer,-762,Poetry/Drama,3.9
+Heart of Darkness,Joseph Conrad,1899,Classic,3.5
+Catch-22,Joseph Heller,1961,Fiction,4.0
+Slaughterhouse-Five,Kurt Vonnegut,1969,Fantasy/Sci-Fi,4.1
+The Stranger,Albert Camus,1942,Fiction,4.0
+The Old Man and the Sea,Ernest Hemingway,1952,Fiction,3.8
+A Tale of Two Cities,Charles Dickens,1859,Classic,3.9
+The Bell Jar,Sylvia Plath,1963,Fiction,4.0
+Invisible Man,Ralph Ellison,1952,Fiction,4.1
+Beloved,Toni Morrison,1987,Fiction,3.9
+The Sound and the Fury,William Faulkner,1929,Fiction,3.9
+Lolita,Vladimir Nabokov,1955,Fiction,3.9
+The Sun Also Rises,Ernest Hemingway,1926,Fiction,3.9
+Gone with the Wind,Margaret Mitchell,1936,Fiction,4.3
+The Grapes of Wrath,John Steinbeck,1939,Fiction,4.1
+Of Mice and Men,John Steinbeck,1937,Fiction,3.9
+The Handmaid's Tale,Margaret Atwood,1985,Fantasy/Sci-Fi,4.1
+The Road,Cormac McCarthy,2006,Fiction,3.9
+Dune,Frank Herbert,1965,Fantasy/Sci-Fi,4.3
+Foundation,Isaac Asimov,1951,Fantasy/Sci-Fi,4.2
+Neuromancer,William Gibson,1984,Fantasy/Sci-Fi,3.9
+Ender's Game,Orson Scott Card,1985,Fantasy/Sci-Fi,4.3
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,Fantasy/Sci-Fi,4.2
+A Brief History of Time,Stephen Hawking,1988,Non-Fiction,4.2
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,4.4
+The Selfish Gene,Richard Dawkins,1976,Non-Fiction,4.2
+Silent Spring,Rachel Carson,1962,Non-Fiction,4.0
+The Origin of Species,Charles Darwin,1859,Non-Fiction,4.0
+A Short History of Nearly Everything,Bill Bryson,2003,Non-Fiction,4.2
+The Double Helix,James Watson,1968,Non-Fiction,3.9
+Guns, Germs, and Steel,Jared Diamond,1997,Non-Fiction,4.0
+The Art of War,Sun Tzu,-500,Non-Fiction,4.0
+The Prince,Niccolò Machiavelli,1532,Non-Fiction,3.8
+Meditations,Marcus Aurelius,180,Non-Fiction,4.3
+Thus Spoke Zarathustra,Friedrich Nietzsche,1883,Non-Fiction,3.9
+Critique of Pure Reason,Immanuel Kant,1781,Non-Fiction,3.8
+Republic,Plato,-380,Non-Fiction,4.0
+The Wealth of Nations,Adam Smith,1776,Non-Fiction,3.9
+Capital,Karl Marx,1867,Non-Fiction,4.0
+The General Theory of Employment, Interest and Money,John Maynard Keynes,1936,Non-Fiction,3.8
+Freakonomics,Steven Levitt, Stephen Dubner,2005,Non-Fiction,4.0
+Thinking, Fast and Slow,Daniel Kahneman,2011,Non-Fiction,4.2
+The Power of Habit,Charles Duhigg,2012,Self-Help,4.1
+Atomic Habits,James Clear,2018,Self-Help,4.4
+The 7 Habits of Highly Effective People,Stephen Covey,1989,Self-Help,4.2
+How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,4.2
+Man's Search for Meaning,Viktor Frankl,1946,Non-Fiction,4.4
+The Subtle Art of Not Giving a F*ck,Mark Manson,2016,Self-Help,3.9
+The Da Vinci Code,Dan Brown,2003,Mystery/Thriller,3.9
+The Girl with the Dragon Tattoo,Stieg Larsson,2005,Mystery/Thriller,4.1
+Gone Girl,Gillian Flynn,2012,Mystery/Thriller,4.1
+The Silent Patient,Alex Michaelides,2019,Mystery/Thriller,4.2
+And Then There Were None,Agatha Christie,1939,Mystery/Thriller,4.3
+Murder on the Orient Express,Agatha Christie,1934,Mystery/Thriller,4.2
+The Hound of the Baskervilles,Arthur Conan Doyle,1902,Mystery/Thriller,4.1
+Sherlock Holmes: A Study in Scarlet,Arthur Conan Doyle,1887,Mystery/Thriller,4.2
+The Shining,Stephen King,1977,Horror,4.2
+It,Stephen King,1986,Horror,4.2
+Pet Sematary,Stephen King,1983,Horror,4.0
+Carrie,Stephen King,1974,Horror,4.0
+Misery,Stephen King,1987,Horror,4.2
+The Stand,Stephen King,1978,Fantasy/Sci-Fi,4.3
+The Name of the Rose,Umberto Eco,1980,Mystery/Thriller,4.1
+The Shadow of the Wind,Carlos Ruiz Zafón,2001,Fiction,4.2
+Life of Pi,Yann Martel,2001,Fiction,3.9
+The Book Thief,Markus Zusak,2005,Fiction,4.4
+The Kite Runner,Khaled Hosseini,2003,Fiction,4.3
+A Thousand Splendid Suns,Khaled Hosseini,2007,Fiction,4.4
+Norwegian Wood,Haruki Murakami,1987,Fiction,4.0
+Kafka on the Shore,Haruki Murakami,2002,Fiction,4.1
+1Q84,Haruki Murakami,2009,Fantasy/Sci-Fi,4.0
+The Wind-Up Bird Chronicle,Haruki Murakami,1994,Fiction,4.1
+Never Let Me Go,Kazuo Ishiguro,2005,Fantasy/Sci-Fi,3.9
+The Remains of the Day,Kazuo Ishiguro,1989,Fiction,4.1
+White Teeth,Zadie Smith,2000,Fiction,3.9
+Midnight's Children,Salman Rushdie,1981,Fiction,4.0
+The Satanic Verses,Salman Rushdie,1988,Fiction,3.8
+The God of Small Things,Arundhati Roy,1997,Fiction,3.9
+The White Tiger,Aravind Adiga,2008,Fiction,3.9
+Wolf Hall,Hilary Mantel,2009,Fiction,4.0
+A Game of Thrones,George R.R. Martin,1996,Fantasy/Sci-Fi,4.5
+Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,Fantasy/Sci-Fi,4.5
+Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasy/Sci-Fi,4.4
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,Fantasy/Sci-Fi,4.6
+Harry Potter and the Goblet of Fire,J.K. Rowling,2000,Fantasy/Sci-Fi,4.5
+Harry Potter and the Order of the Phoenix,J.K. Rowling,2003,Fantasy/Sci-Fi,4.5
+Harry Potter and the Half-Blood Prince,J.K. Rowling,2005,Fantasy/Sci-Fi,4.6
+Harry Potter and the Deathly Hallows,J.K. Rowling,2007,Fantasy/Sci-Fi,4.6
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe,C.S. Lewis,1950,Fantasy/Sci-Fi,4.2
+The Golden Compass,Philip Pullman,1995,Fantasy/Sci-Fi,3.8
+The Hunger Games,Suzanne Collins,2008,Fantasy/Sci-Fi,4.3
+Catching Fire,Suzanne Collins,2009,Fantasy/Sci-Fi,4.3
+Mockingjay,Suzanne Collins,2010,Fantasy/Sci-Fi,4.1
+Divergent,Veronica Roth,2011,Fantasy/Sci-Fi,4.2
+The Maze Runner,James Dashner,2009,Fantasy/Sci-Fi,4.0
+The Giver,Lois Lowry,1993,Fantasy/Sci-Fi,4.1
+The Secret History,Donna Tartt,1992,Fiction,4.1
+The Goldfinch,Donna Tartt,2013,Fiction,3.9
+The Night Circus,Erin Morgenstern,2011,Fantasy/Sci-Fi,4.0
+The Starless Sea,Erin Morgenstern,2019,Fantasy/Sci-Fi,3.9
+Circe,Madeline Miller,2018,Fantasy/Sci-Fi,4.3
+The Song of Achilles,Madeline Miller,2011,Fiction,4.3
+Where the Crawdads Sing,Delia Owens,2018,Fiction,4.2
+Educated,Tara Westover,2018,Biography/Memoir,4.5
+Becoming,Michelle Obama,2018,Biography/Memoir,4.5
+Born a Crime,Trevor Noah,2016,Biography/Memoir,4.4
+The Glass Castle,Jeannette Walls,2005,Biography/Memoir,4.3
+Wild,Cheryl Strayed,2012,Biography/Memoir,4.0
+Into the Wild,Jon Krakauer,1996,Biography/Memoir,4.0
+Into Thin Air,Jon Krakauer,1997,Biography/Memoir,4.2
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Biography/Memoir,4.1
+Unbroken,Laura Hillenbrand,2010,Biography/Memoir,4.4
+The Diary of a Young Girl,Anne Frank,1947,Biography/Memoir,4.2
+Long Walk to Freedom,Nelson Mandela,1994,Biography/Memoir,4.3
+I Know Why the Caged Bird Sings,Maya Angelou,1969,Biography/Memoir,4.3
+The Color Purple,Alice Walker,1982,Fiction,4.2
+Their Eyes Were Watching God,Zora Neale Hurston,1937,Fiction,3.9
+Things Fall Apart,Chinua Achebe,1958,Fiction,3.7
+Bossypants,Tina Fey,2011,Comedy,4.1
+Yes Please,Amy Poehler,2014,Comedy,3.9
+Is Everyone Hanging Out Without Me?,Mindy Kaling,2011,Comedy,3.8
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,Comedy,4.2
+Good Omens,Neil Gaiman & Terry Pratchett,1990,Comedy,4.3
+Lamb: The Gospel According to Biff,Christopher Moore,2002,Comedy,4.1
+A Confederacy of Dunces,John Kennedy Toole,1980,Comedy,3.9
+The Princess Bride,William Goldman,1973,Comedy,4.3
+Three Men in a Boat,Jerome K. Jerome,1889,Comedy,4.0
+Catch-22,Joseph Heller,1961,Comedy,4.0
+Bridget Jones's Diary,Helen Fielding,1996,Comedy,3.8
+The Importance of Being Earnest,Oscar Wilde,1895,Comedy,4.2
+The Code of the Woosters,P.G. Wodehouse,1938,Comedy,4.4
+Right Ho, Jeeves,P.G. Wodehouse,1934,Comedy,4.3
+The Thurber Carnival,James Thurber,1945,Comedy,4.0
+Me Talk Pretty One Day,David Sedaris,2000,Comedy,4.1
+Dress Your Family in Corduroy and Denim,David Sedaris,2004,Comedy,4.0
+Calypso,David Sedaris,2018,Comedy,4.2
+Hyperbole and a Half,Allie Brosh,2013,Comedy,4.2
+Solutions and Other Problems,Allie Brosh,2020,Comedy,4.3
+Furiously Happy,Jenny Lawson,2015,Comedy,3.9
+Let's Pretend This Never Happened,Jenny Lawson,2012,Comedy,3.8
+The Areas of My Expertise,John Hodgman,2005,Comedy,3.7
+Vacationland,John Hodgman,2017,Comedy,3.9
+I Feel Bad About My Neck,Nora Ephron,2006,Comedy,3.8
+Heartburn,Nora Ephron,1983,Comedy,3.9
+The Rosie Project,Graeme Simsion,2013,Comedy,4.0
+The Rosie Effect,Graeme Simsion,2014,Comedy,3.7
+The Martian,Andy Weir,2011,Comedy,4.4
+The Sellout,Paul Beatty,2015,Comedy,3.9
+The 100-Year-Old Man Who Climbed Out the Window,Jonas Jonasson,2009,Comedy,3.9
+The Girl Who Saved the King of Sweden,Jonas Jonasson,2013,Comedy,3.8
+Where'd You Go, Bernadette,Maria Semple,2012,Comedy,3.9
+Today Will Be Different,Maria Semple,2016,Comedy,3.6
+The Help,Kathryn Stockett,2009,Comedy,4.5
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer & Annie Barrows,2008,Comedy,4.2
+Eleanor Oliphant Is Completely Fine,Gail Honeyman,2017,Comedy,4.2
+The Unlikely Pilgrimage of Harold Fry,Rachel Joyce,2012,Comedy,3.9
+Major Pettigrew's Last Stand,Helen Simonson,2010,Comedy,4.0
+The Storied Life of A.J. Fikry,Gabrielle Zevin,2014,Comedy,4.0
+The Little Paris Bookshop,Nina George,2013,Comedy,3.8
+The Bookshop on the Corner,Jenny Colgan,2016,Comedy,3.9
+The Cafe by the Sea,Jenny Colgan,2017,Comedy,3.8
+The Readers of Broken Wheel Recommend,Katarina Bivald,2013,Comedy,3.7
+The Curious Charms of Arthur Pepper,Phaedra Patrick,2016,Comedy,3.8
+The Lido,Libby Page,2018,Comedy,3.9
+The Single Ladies of Jacaranda Retirement Village,Joanna Nell,2018,Comedy,3.8
+The Brilliant Life of Eudora Honeysett,Annie Lyons,2020,Comedy,4.0
+The Switch,Beth O'Leary,2020,Comedy,3.9
+The Flatshare,Beth O'Leary,2019,Comedy,4.1
+The Bourne Identity,Robert Ludlum,1980,Action,4.1
+The Hunt for Red October,Tom Clancy,1984,Action,4.2
+Patriot Games,Tom Clancy,1987,Action,4.1
+Clear and Present Danger,Tom Clancy,1989,Action,4.2
+The Sum of All Fears,Tom Clancy,1991,Action,4.1
+Rainbow Six,Tom Clancy,1998,Action,4.2
+Without Remorse,Tom Clancy,1993,Action,4.3
+The Da Vinci Code,Dan Brown,2003,Action,3.9
+Angels & Demons,Dan Brown,2000,Action,3.9
+Inferno,Dan Brown,2013,Action,3.8
+The Lost Symbol,Dan Brown,2009,Action,3.7
+Origin,Dan Brown,2017,Action,3.8
+The Firm,John Grisham,1991,Action,4.0
+The Pelican Brief,John Grisham,1992,Action,4.0
+The Client,John Grisham,1993,Action,4.0
+The Runaway Jury,John Grisham,1996,Action,4.0
+The Partner,John Grisham,1997,Action,3.9
+The Street Lawyer,John Grisham,1998,Action,3.8
+The Brethren,John Grisham,2000,Action,3.7
+The Summons,John Grisham,2002,Action,3.6
+The King of Torts,John Grisham,2003,Action,3.7
+The Last Juror,John Grisham,2004,Action,3.8
+The Broker,John Grisham,2005,Action,3.6
+The Appeal,John Grisham,2008,Action,3.7
+The Associate,John Grisham,2009,Action,3.5
+The Confession,John Grisham,2010,Action,4.0
+The Litigators,John Grisham,2011,Action,3.7
+The Racketeer,John Grisham,2012,Action,3.7
+Sycamore Row,John Grisham,2013,Action,4.0
+Gray Mountain,John Grisham,2014,Action,3.6
+Rogue Lawyer,John Grisham,2015,Action,3.7
+The Whistler,John Grisham,2016,Action,3.8
+Camino Island,John Grisham,2017,Action,3.6
+The Reckoning,John Grisham,2018,Action,3.7
+The Guardians,John Grisham,2019,Action,4.0
+A Time to Kill,John Grisham,1989,Action,4.2
+The Lincoln Lawyer,Michael Connelly,2005,Action,4.2
+The Brass Verdict,Michael Connelly,2008,Action,4.3
+The Reversal,Michael Connelly,2010,Action,4.2
+The Fifth Witness,Michael Connelly,2011,Action,4.1
+The Gods of Guilt,Michael Connelly,2013,Action,4.2
+The Law of Innocence,Michael Connelly,2020,Action,4.3
+The Black Echo,Michael Connelly,1992,Action,4.1
+The Black Ice,Michael Connelly,1993,Action,4.0
+The Concrete Blonde,Michael Connelly,1994,Action,4.2
+The Last Coyote,Michael Connelly,1995,Action,4.1
+Trunk Music,Michael Connelly,1997,Action,4.0
+Angels Flight,Michael Connelly,1999,Action,4.1
+A Darkness More Than Night,Michael Connelly,2001,Action,4.2
+City of Bones,Michael Connelly,2002,Action,4.1
+The Exorcist,William Peter Blatty,1971,Horror,4.2
+Rosemary's Baby,Ira Levin,1967,Horror,4.1
+The Haunting of Hill House,Shirley Jackson,1959,Horror,4.0
+We Have Always Lived in the Castle,Shirley Jackson,1962,Horror,4.0
+The Silence of the Lambs,Thomas Harris,1988,Horror,4.2
+Red Dragon,Thomas Harris,1981,Horror,4.1
+Hannibal,Thomas Harris,1999,Horror,3.8
+Hannibal Rising,Thomas Harris,2006,Horror,3.4
+The Girl Next Door,Jack Ketchum,1989,Horror,3.9
+Off Season,Jack Ketchum,1980,Horror,3.8
+The Woman,Jack Ketchum,2010,Horror,3.7
+Bird Box,Josh Malerman,2014,Horror,4.0
+Malorie,Josh Malerman,2020,Horror,3.7
+House of Leaves,Mark Z. Danielewski,2000,Horror,4.1
+The Only Good Indians,Stephen Graham Jones,2020,Horror,3.9
+My Heart Is a Chainsaw,Stephen Graham Jones,2021,Horror,3.8
+The Terror,Dan Simmons,2007,Horror,4.1
+Carrion Comfort,Dan Simmons,1989,Horror,4.0
+Summer of Night,Dan Simmons,1991,Horror,4.0
+A Head Full of Ghosts,Paul Tremblay,2015,Horror,3.8
+The Cabin at the End of the World,Paul Tremblay,2018,Horror,3.7
+Disappearance at Devil's Rock,Paul Tremblay,2016,Horror,3.6
+The Ruins,Scott Smith,2006,Horror,3.8
+A Simple Plan,Scott Smith,1993,Horror,4.0
+Heart-Shaped Box,Joe Hill,2007,Horror,3.9
+NOS4A2,Joe Hill,2013,Horror,4.1
+The Fireman,Joe Hill,2016,Horror,3.9
+Horns,Joe Hill,2010,Horror,3.9
+Strange Weather,Joe Hill,2017,Horror,3.8
+The Troop,Nick Cutter,2014,Horror,3.9
+The Deep,Nick Cutter,2015,Horror,3.7
+Little Heaven,Nick Cutter,2016,Horror,3.6
+The Breach,Nick Cutter,2020,Horror,3.8
+The Ritual,Adam Nevill,2011,Horror,3.8
+Last Days,Adam Nevill,2012,Horror,3.9
+No One Gets Out Alive,Adam Nevill,2014,Horror,3.8
+Under a Watchful Eye,Adam Nevill,2017,Horror,3.7
+The Reddening,Adam Nevill,2019,Horror,3.8
+Cunning Folk,Adam Nevill,2021,Horror,3.9
+The Twisted Ones,T. Kingfisher,2019,Horror,3.8
+The Hollow Places,T. Kingfisher,2020,Horror,3.9
+What Moves the Dead,T. Kingfisher,2022,Horror,4.0
+The Luminous Dead,Caitlin Starling,2019,Horror,3.7
+The Death of Jane Lawrence,Caitlin Starling,2021,Horror,3.6

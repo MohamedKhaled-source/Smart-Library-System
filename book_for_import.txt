@@ -1,0 +1,4 @@
+The Hobbit,J.R.R. Tolkien,1937,Fantasy,4.9,15,45.0,0
+1984,George Orwell,1949,Classic,4.8,20,30.5,5
+The Da Vinci Code,Dan Brown,2003,Mystery,4.2,10,25.0,2
+Clean Code,Robert C. Martin,2008,Education,4.7,5,80.0,10
